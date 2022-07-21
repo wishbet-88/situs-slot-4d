@@ -1,0 +1,52 @@
+{
+  "_from": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
+  "_id": "slot-shopeepayy@1.12.1",
+  "_inBundle": false,
+  "_integrity": "sha512-vQrVEBX17h6M2AITs4jBTBTtaat3lCfGRhvlx6SHimo6tbtswRK4wY9+bMwLRjK3i3KK7VtaIxgY4TlcCj24lA==",
+  "_location": "/slot-shopeepay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
+  "_shasum": "e6698e0f5c222d8a73534ee52dde46f2322fdfda",
+  "_spec": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
+  "_where": "C:\\Users\\HP\\AppData\\Local\\Temp\\apm-install-dir-2022621-14804-1f1vzzy.k584",
+  "activationCommands": {
+    "atom-workspace": "slot-shopeepay:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/slot-shopeepay/slot-shopeepay/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Daftar Situs Judi Slot Online Deposit Via Gopay 5000 Tanpa Potongan",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/slot-shopeepay/slot-online-deposit-gopay-5000#readme",
+  "keywords": [
+    "Slot Shopeepay",
+    "Slot Shopeepay 5000",
+    "Situs Deposit Shopeepay ",
+    "Slot Deposit Gopay",
+    "Slot Via Shopee",
+    "Slot Deposit ShopeepatTanpa Potongan"
+  ],
+  "license": "MIT",
+  "main": "./atom/rb/20july/gopay/slot-shopeepay",
+  "name": "slot-shopeepay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slot-shopeepay/slot-shopeepay.git"
+  },
+  "version": "1.12.1"
+}
